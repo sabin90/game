@@ -55,7 +55,7 @@ const compareGuess = () => {
       userOutputGuess.innerHTML = "Your guess is Low 😔";
       userNumberUpdate.value = "";
     } else {
-      userOutputGuess.innerHTML = "It's Correct 🙂";
+      userOutputGuess.innerHTML = "It's Correct🙂";
       userNumberUpdate.value = "";
       startNewGame();
     }
